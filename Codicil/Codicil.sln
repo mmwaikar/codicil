@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codicil", "Codicil\Codicil.csproj", "{803E52D6-2666-420E-A217-48806D06627E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codicil.Tests", "Codicil.Tests\Codicil.Tests.csproj", "{F3BAFCF5-7CB4-4A4F-8484-7EB43AB52831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803E52D6-2666-420E-A217-48806D06627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803E52D6-2666-420E-A217-48806D06627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803E52D6-2666-420E-A217-48806D06627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803E52D6-2666-420E-A217-48806D06627E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BAFCF5-7CB4-4A4F-8484-7EB43AB52831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BAFCF5-7CB4-4A4F-8484-7EB43AB52831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BAFCF5-7CB4-4A4F-8484-7EB43AB52831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BAFCF5-7CB4-4A4F-8484-7EB43AB52831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
